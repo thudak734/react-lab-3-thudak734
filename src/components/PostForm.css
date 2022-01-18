@@ -1,4 +1,6 @@
 .PostForm{
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
     border: 1px black solid;
     padding: 20px;
     width: 400px;
