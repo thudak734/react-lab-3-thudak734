@@ -2,6 +2,7 @@
 
 .SocialPosts{
     font-family: 'Homemade Apple', cursive;
+    font-size:x-large;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -10,7 +11,14 @@
 }
 
 button{
-    width: 50%;
+    font-family: 'Dosis', sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    width: 400px;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #03a9f4;
+    margin-bottom: 20px;
 }
 
 /* .Post-Container{
